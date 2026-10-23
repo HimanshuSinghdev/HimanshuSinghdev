@@ -8,45 +8,36 @@
 
 ---
 
-[![GitHub Followers](https://img.shields.io/github/followers/HimanshuSinghdev?style=for-the-badge&color=007acc)](https://github.com/HimanshuSinghdev)
-[![GitHub Stars](https://img.shields.io/github/stars/HimanshuSinghdev?style=for-the-badge&color=ffb703)](https://github.com/HimanshuSinghdev)
+[![GitHub Followers](https://img.shields.io/github/followers/HimanshuSinghdev?style=for-the-badge&color=007acc)](https://github.com/HimanshuSinghdev?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/HimanshuSinghdev?style=for-the-badge&color=ffb703)](https://github.com/HimanshuSinghdev?tab=repositories)
 
 </div>
 
-### 🚀 About Me
+---
 
-- 💻 Passionate about **Software Development**, **Data Structures & Algorithms (DSA)**, and **Full-Stack Engineering**.
-- 🛠️ Skilled in building robust backend services, high-performance web applications, and serverless workflows.
-- ⚡ Always exploring modern cloud architectures, serverless edge compute (**Cloudflare**), and clean UI/UX designs.
+### 📌 Featured Repositories
+
+| Repository | Description | Link |
+| :--- | :--- | :---: |
+| 🔗 **tinyhop** | Lightweight URL Shortener service | [View Repo](https://github.com/HimanshuSinghdev/tinyhop) |
+| 💪 **workout-tracker** | Full-stack workout tracking app | [View Repo](https://github.com/HimanshuSinghdev/workout-tracker) |
+| 📋 **the-list-app** | Productivity & task management application | [View Repo](https://github.com/HimanshuSinghdev/the-list-app) |
+| 🐍 **pyslate-app** | Interactive Python workspace / tool | [View Repo](https://github.com/HimanshuSinghdev/pyslate-app) |
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🚀 Tech Stack & Skills
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Java` `JavaScript` `TypeScript` `Python` `HTML5` `CSS3` |
-| **Core Concepts** | `Data Structures & Algorithms (DSA)` `Object-Oriented Programming (OOP)` `System Design` |
-| **Frontend** | `React` `Next.js` `Tailwind CSS` `HTML/CSS` |
-| **Backend & Cloud** | `Node.js` `Express` `Cloudflare Workers` `Serverless Architecture` |
-| **Tools & Platforms** | `Git` `GitHub` `VS Code` `Postman` |
+| **Languages** | Java, JavaScript, TypeScript, Python, HTML5, CSS3 |
+| **Backend & Frameworks** | Node.js, Express.js, Spring Boot, REST APIs |
+| **Frontend & UI** | React.js, Next.js, Tailwind CSS |
+| **Databases & Tools** | PostgreSQL, MongoDB, Redis, Docker, Git, GitHub |
 
 ---
 
-### 📁 Featured Projects
-
-- 🔗 **[tinyhop](https://github.com/HimanshuSinghdev/tinyhop)** — A fast and modern URL shortener service built for performance and simplicity.
-- 🏋️ **[workout-tracker](https://github.com/HimanshuSinghdev/workout-tracker)** — A dynamic web application to track workouts, monitor fitness goals, and structure training routines.
-- 📝 **[the-list-app](https://github.com/HimanshuSinghdev/the-list-app)** — An intuitive task and list management application with clean user interface and productivity features.
-- 🐍 **[pyslate-app](https://github.com/HimanshuSinghdev/pyslate-app)** — A Python-driven application for real-time note-taking, sketching, or text processing.
-
----
-
-<div align="center">
-
-### 📫 Connect with Me
+### 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HimanshuSinghdev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshu949singh@gmail.com)
-
-</div>
